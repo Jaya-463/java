@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Stringexample",
+            "request": "launch",
+            "mainClass": "Stringexample",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "greeting",
+            "request": "launch",
+            "mainClass": "greeting",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "calculators",
+            "request": "launch",
+            "mainClass": "calculators",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Cyllendra",
+            "request": "launch",
+            "mainClass": "Cyllendra",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Jaya",
+            "request": "launch",
+            "mainClass": "Jaya",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "car",
+            "request": "launch",
+            "mainClass": "car",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "celcious",
+            "request": "launch",
+            "mainClass": "celcious",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "constructor(function Object() { [native code] }1)",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "duplicate",
+            "request": "launch",
+            "mainClass": "duplicate",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "evennumber",
+            "request": "launch",
+            "mainClass": "evennumber",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "intfind",
+            "request": "launch",
+            "mainClass": "intfind",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "namee",
+            "request": "launch",
+            "mainClass": "namee",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "odd",
+            "request": "launch",
+            "mainClass": "odd",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "percentage",
+            "request": "launch",
+            "mainClass": "percentage",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "percentage11",
+            "request": "launch",
+            "mainClass": "percentage11",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "repeat",
+            "request": "launch",
+            "mainClass": "repeat",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "scape",
+            "request": "launch",
+            "mainClass": "scape",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "sumofthree",
+            "request": "launch",
+            "mainClass": "sumofthree",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "third",
+            "request": "launch",
+            "mainClass": "third",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "website",
+            "request": "launch",
+            "mainClass": "website",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "Java_814ae8b5"
+        }
+    ]
+}
