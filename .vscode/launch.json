@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "polymorphism",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "pen",
+            "request": "launch",
+            "mainClass": "pen",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "newClass",
+            "request": "launch",
+            "mainClass": "newClass",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "method4",
+            "request": "launch",
+            "mainClass": "method4",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "method3",
+            "request": "launch",
+            "mainClass": "method3",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "mehod2",
+            "request": "launch",
+            "mainClass": "mehod2",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "javametod",
+            "request": "launch",
+            "mainClass": "javametod",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "Stringexample",
             "request": "launch",
             "mainClass": "Stringexample",
