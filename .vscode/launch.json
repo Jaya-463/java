@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calcul",
+            "request": "launch",
+            "mainClass": "Beginer.javaProject.calcul",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "cgpa",
+            "request": "launch",
+            "mainClass": "Beginer.cgpa",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
+            "name": "fistAdd",
+            "request": "launch",
+            "mainClass": "Beginer.fistAdd",
+            "projectName": "Java_814ae8b5"
+        },
+        {
+            "type": "java",
             "name": "polymorphism",
             "request": "launch",
             "mainClass": "polymorphism",
